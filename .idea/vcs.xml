@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HW_GB" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fialova_aka_micron_1_less" vcs="" />
     <mapping directory="$PROJECT_DIR$/less_3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lesson_2/less_3" vcs="Git" />
